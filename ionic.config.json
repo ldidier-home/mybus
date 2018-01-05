@@ -1,0 +1,8 @@
+{
+  "name": "mybus",
+  "app_id": "6262ced6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
